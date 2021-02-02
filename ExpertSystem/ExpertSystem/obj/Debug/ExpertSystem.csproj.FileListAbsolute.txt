@@ -1,0 +1,13 @@
+C:\Users\seliv\source\repos\ExpertSystem\ExpertSystem\bin\Debug\Database1.mdf
+C:\Users\seliv\source\repos\ExpertSystem\ExpertSystem\bin\Debug\Database1_log.ldf
+C:\Users\seliv\source\repos\ExpertSystem\ExpertSystem\bin\Debug\ExpertSystem.exe.config
+C:\Users\seliv\source\repos\ExpertSystem\ExpertSystem\bin\Debug\ExpertSystem.exe
+C:\Users\seliv\source\repos\ExpertSystem\ExpertSystem\bin\Debug\ExpertSystem.pdb
+C:\Users\seliv\source\repos\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.csprojAssemblyReference.cache
+C:\Users\seliv\source\repos\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.Form1.resources
+C:\Users\seliv\source\repos\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.Properties.Resources.resources
+C:\Users\seliv\source\repos\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.csproj.GenerateResource.cache
+C:\Users\seliv\source\repos\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.csproj.CoreCompileInputs.cache
+C:\Users\seliv\source\repos\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.exe
+C:\Users\seliv\source\repos\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.pdb
+C:\Users\seliv\source\repos\ExpertSystem\ExpertSystem\obj\Debug\ExpertSystem.Form2.resources
